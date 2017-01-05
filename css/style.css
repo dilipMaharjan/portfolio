@@ -459,7 +459,15 @@ template {
 [hidden] {
   display: none;
 }
+/**
+ custom css
+*/
+.justified {
+    position:absolute;
+    left:40%;
+}
 
 /**
 Override bootstrap
 */
+
